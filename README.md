@@ -28,7 +28,6 @@
   <a href="http://www.instagram.com/luis_hernandez993" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" style="margin-right: 15px;"></a> 
   <a href="https://www.linkedin.com/in/luis-hernandez" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="margin-right: 15px;"></a> 
   <a href="https://www.twitter.com/@LuisCar28050784" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32"></a>
-  <a href="https://www.json.org/json-en.html" target="_blank"><img src="" width="32" height="32"></a>
 </p>
 
 ## Badges
