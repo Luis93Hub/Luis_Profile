@@ -9,9 +9,12 @@ Full-Stack Web Developer
 ### Skills
 
 <p align="left">
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="65" height="65" alt="HTML5" /></a>
+<a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"><img src="https://diziglobalsolution.com/wp-content/uploads/2023/04/logo-css-3-1536.png" width="65" height="65" padding-right="10" alt="CSS" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="65" height="65" alt="Javascript" /></a>  
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="65" height="65" padding-right="10" alt="PHP" /></a>
+<a href="https://symfony.com/" target="_blank" rel="noreferrer"><img src="https://connect.symfony.com/uploads/sln/1991a94e-4351-4af1-88ab-4f17f6d20f45/8697a26e-20ac-429a-8da7-510bf022a7c8.png" width="65" height="65" padding-right="10" alt="Symfony" /></a>
+<a href="https://symfony.com/" target="_blank" rel="noreferrer"><img src="https://www.drupal.org/files/cta/graphic/Drupal_10_2%4072x_0.png" width="65" height="65" padding-right="10" alt="Drupal" /></a>
 </p>
 
 
