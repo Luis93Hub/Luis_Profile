@@ -23,6 +23,7 @@ Full-Stack Web Developer
 <a href="https://ddev.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/595986?s=200&v=4" width="65" height="65" padding-right="10" alt="Ddev" ></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.drupal.org/files/project-images/screenshot_361.png" width="65" height="65" padding-right="10" alt="Tailwindcss" ></a>
 <a href="https://getcomposer.org/" target="_blank" rel="noreferrer"><img src="https://getcomposer.org/img/logo-composer-transparent2.png" width="65" height="65" padding-right="10" alt="Composer" ></a>
+<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://static-production.npmjs.com/b0f1a8318363185cc2ea6a40ac23eeb2.png" width="65" height="65" padding-right="10" alt="npm" ></a>
 </p>
 
 ### Socials
