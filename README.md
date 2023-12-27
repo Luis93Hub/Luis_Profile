@@ -2,12 +2,12 @@
 
 ## Skills
 <p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="65" height="65" alt="HTML5" style="margin-right: 10px;">
-  <img src="https://diziglobalsolution.com/wp-content/uploads/2023/04/logo-css-3-1536.png" width="65" height="65" alt="CSS" style="margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="65" height="65" alt="JavaScript" style="margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="65" height="65" alt="PHP" style="margin-right: 10px;">
-  <img src="https://connect.symfony.com/uploads/sln/1991a94e-4351-4af1-88ab-4f17f6d20f45/8697a26e-20ac-429a-8da7-510bf022a7c8.png" width="65" height="65" alt="Symfony" style="margin-right: 10px;">
-  <img src="https://www.drupal.org/files/cta/graphic/Drupal_10_2%4072x_0.png" width="65" height="65" alt="Drupal" style="margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="65" height="65" target="_blank" alt="HTML5" style="margin-right: 10px;">
+  <img src="https://diziglobalsolution.com/wp-content/uploads/2023/04/logo-css-3-1536.png" width="65" target="_blank" height="65" alt="CSS" style="margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="65" height="65" target="_blank" alt="JavaScript" style="margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="65" height="65" target="_blank" alt="PHP" style="margin-right: 10px;">
+  <img src="https://connect.symfony.com/uploads/sln/1991a94e-4351-4af1-88ab-4f17f6d20f45/8697a26e-20ac-429a-8da7-510bf022a7c8.png" width="65" height="65" target="_blank" alt="Symfony" style="margin-right: 10px;">
+  <img src="https://www.drupal.org/files/cta/graphic/Drupal_10_2%4072x_0.png" width="65" height="65" target="_blank" alt="Drupal" style="margin-right: 10px;">
 </p>
 
 ## Other Technologies
