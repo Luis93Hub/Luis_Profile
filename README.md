@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Luis, a Full-Stack Web Developer based in Finland 🌍.
+# Hi there! Welcome to my GitHub profile 👋 I'm Luis, a Full-Stack Web Developer based in Finland 🌍.
 
 ## Skills
 <p align="left">
